@@ -1,0 +1,26 @@
+{
+  "name": "callendar-note",
+  "version": "1.0.0",
+  "description": "callendar and note for me and other",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nillworld/callendar-note.git"
+  },
+  "keywords": [
+    "callendar"
+  ],
+  "author": "Nill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nillworld/callendar-note/issues"
+  },
+  "homepage": "https://github.com/nillworld/callendar-note#readme",
+  "dependencies": {
+    "@toast-ui/calendar": "^2.1.3"
+  }
+}
